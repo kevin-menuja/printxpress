@@ -1,0 +1,174 @@
+{
+  "project": "PrintXpress Mobile App",
+  "source_report": "st20345403_CSE5011_WRIT1.docx",
+  "module": "CSE5011 — Mobile Application Development",
+  "source_report_sha256": "c0c22187bfed56e6d996551967e1fe9c803da760a40037a5c2faabd80a688908",
+  "provenance": "Exact PNG bytes extracted from word/media assets inside original submitted DOCX; screenshots have not been redrawn, enhanced, annotated or manipulated. Names and gallery selection are new.",
+  "runtime_tests_performed_now": false,
+  "github_upload_performed": true,
+  "gallery": [
+    {
+      "file": "docs/screenshots/home.png",
+      "source_media": "word/media/image65.png",
+      "sha256": "71245f4a961dd7bb4b3220650c4edc803ec02c0087387049e889de0cc1637d3b",
+      "bytes": 353835,
+      "original_binary_unchanged": true,
+      "title": "PrintXpress home and product categories",
+      "source_context": "Task E — test case TC07, Figure 48",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/product-catalogue.png",
+      "source_media": "word/media/image66.png",
+      "sha256": "985049e79ecdd4d496d9e158e79b86752cf11fd9af79e214817d5c6fae8cb4cf",
+      "bytes": 493509,
+      "original_binary_unchanged": true,
+      "title": "Product catalogue",
+      "source_context": "Task E — test case TC08, Figure 49",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/product-search.png",
+      "source_media": "word/media/image67.png",
+      "sha256": "1a0c27b76d5e172cb6e06d76406f92431e04a4de9badfc6098c1dfcaf107b295",
+      "bytes": 466789,
+      "original_binary_unchanged": true,
+      "title": "Search result for banners",
+      "source_context": "Task E — test case TC09, Figure 50",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/order-confirmation.png",
+      "source_media": "word/media/image68.png",
+      "sha256": "e490be9c4dd113ffdfbdedbcf3778e4a05edc4a65654a19e14500a9d6b222494",
+      "bytes": 204128,
+      "original_binary_unchanged": true,
+      "title": "Locally simulated order confirmation",
+      "source_context": "Task E — test case TC10, Figure 51",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/order-validation.png",
+      "source_media": "word/media/image69.png",
+      "sha256": "945d0af52a1ec40f805543131d83f04b8c3cdbfcdd312f49f9c2f67d920492e0",
+      "bytes": 214557,
+      "original_binary_unchanged": true,
+      "title": "Quantity input validation",
+      "source_context": "Task E — test case TC11, Figure 52",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/design-upload.png",
+      "source_media": "word/media/image70.png",
+      "sha256": "88f4ac2dcc12e49b9859b42a1f8fff28ecefb540af48463676942ee29558a573",
+      "bytes": 227617,
+      "original_binary_unchanged": true,
+      "title": "Print artwork upload in order flow",
+      "source_context": "Task E — test case TC12, Figure 53",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/orders-list.png",
+      "source_media": "word/media/image72.png",
+      "sha256": "c84c9443a440ba24a8f1a2f82e78bf4c7513a7b587fa0cd29b64d01ca41490ae",
+      "bytes": 218474,
+      "original_binary_unchanged": true,
+      "title": "Order history list",
+      "source_context": "Task E — test case TC14, Figure 55",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/order-details.png",
+      "source_media": "word/media/image73.png",
+      "sha256": "7a096796083d07e97bb69f2b5b5f6ce8b551c731179ba672e93cbe6003d6a6d1",
+      "bytes": 196659,
+      "original_binary_unchanged": true,
+      "title": "Order details and progress",
+      "source_context": "Task E — test case TC15, Figure 56",
+      "type": "implementation screenshot from report"
+    },
+    {
+      "file": "docs/screenshots/notifications.png",
+      "source_media": "word/media/image75.png",
+      "sha256": "ee07eb3e1bc3499f39bf8b912c1eb376750f566ade568145c455d93a948479e9",
+      "bytes": 246876,
+      "original_binary_unchanged": true,
+      "title": "Order notifications",
+      "source_context": "Task E — test case TC17, Figure 58",
+      "type": "implementation screenshot from report"
+    }
+  ],
+  "historical_report_test_captures": [],
+  "privacy_note": "Review all screenshots for personal information and payment inputs before publishing to a public repository. Do not publicly expose the full submitted report without a separate privacy review.",
+  "design_diagrams": [
+    {
+      "title": "Use case diagram",
+      "file": "docs/evidence/design-assets/use-case.png",
+      "source_media": "word/media/image18.png",
+      "sha256": "e734026518bf5af5f234fc5b6b853f9592aebc86a74921351fd69921648b4a55",
+      "bytes": 180911,
+      "original_binary_unchanged": true,
+      "evidence_type": "proposed academic design diagram, not an application screenshot or verified implementation"
+    },
+    {
+      "title": "Order activity diagram",
+      "file": "docs/evidence/design-assets/activity.png",
+      "source_media": "word/media/image19.png",
+      "sha256": "38d8bb5294d724d85d5429cfea6709c51781b13cc1608fde7f3c832be5b88fbc",
+      "bytes": 145545,
+      "original_binary_unchanged": true,
+      "evidence_type": "proposed academic design diagram, not an application screenshot or verified implementation"
+    },
+    {
+      "title": "Class diagram",
+      "file": "docs/evidence/design-assets/class.png",
+      "source_media": "word/media/image20.png",
+      "sha256": "0f63a0e462888fbe8b4a8a3d7d58ff8ad7c752ca9add03f0bd4db5abc19546ed",
+      "bytes": 151547,
+      "original_binary_unchanged": true,
+      "evidence_type": "proposed academic design diagram, not an application screenshot or verified implementation"
+    },
+    {
+      "title": "ER diagram",
+      "file": "docs/evidence/design-assets/entity-relationship.png",
+      "source_media": "word/media/image21.png",
+      "sha256": "807df4c149b8b94b903f1a3fd07e07abca86298274cbeadb2faca49b7c4fc436",
+      "bytes": 189162,
+      "original_binary_unchanged": true,
+      "evidence_type": "proposed academic design diagram, not an application screenshot or verified implementation"
+    },
+    {
+      "title": "Proposed normalized relational schema",
+      "file": "docs/evidence/design-assets/relational-schema.png",
+      "source_media": "word/media/image22.png",
+      "sha256": "a9be274e430d4d02bd4a58bb13a496b01bde26439103c5234219009a2c2004b4",
+      "bytes": 109971,
+      "original_binary_unchanged": true,
+      "evidence_type": "proposed academic design diagram, not an application screenshot or verified implementation"
+    }
+  ],
+  "publication_scope": "Only original application screenshots, original design diagrams, and written historical test-result summaries",
+  "withheld_test_ids": [
+    "TC01",
+    "TC02",
+    "TC03",
+    "TC04",
+    "TC05",
+    "TC06",
+    "TC07",
+    "TC08",
+    "TC09",
+    "TC10",
+    "TC11",
+    "TC12",
+    "TC13",
+    "TC14",
+    "TC15",
+    "TC16",
+    "TC17",
+    "TC18",
+    "TC19",
+    "TC20"
+  ],
+  "publication_note": "All raw historical test-case image captures withheld from public GitHub due to potential personal data and simulated payment fields. They remain in the original source DOCX and unmodified evidence ZIP on the authorized Mac."
+}
