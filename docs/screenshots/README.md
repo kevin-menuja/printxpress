@@ -44,7 +44,7 @@ These screenshots are **unaltered image assets extracted from the submitted CSE5
 
 ## Historical testing evidence
 
-The submitted report documents **20 test cases**. Historical outcomes are summarized in [the report test-evidence summary](../evidence/REPORT_TEST_EVIDENCE.md), with traceability in [`REPORT_TEST_EVIDENCE.md`](../evidence/REPORT_TEST_EVIDENCE.md).
+The submitted report documents **20 test cases**. Historical outcomes are listed in the [report test-evidence summary](../evidence/REPORT_TEST_EVIDENCE.md); raw test images are intentionally withheld from the public repository.
 
 **Important:** Reported test outcomes describe what was documented in the coursework; they do not certify that the current repository was rebuilt, re-run, or independently retested. For any simulated payment flows, no real card transaction or settlement is evidenced.
 

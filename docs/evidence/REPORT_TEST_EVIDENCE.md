@@ -3,30 +3,30 @@
 **Source:** `st20345403_CSE5011_WRIT1.docx`, CSE5011 — Mobile Application Development.
 **Evidence classification:** Historic screenshots and recorded outcomes from the submitted academic report — not freshly executed tests.
 
-**Public privacy review:** Only a subset of test captures is published here. Other captures remain in the original academic report to avoid exposing account details or payment-form examples.
+**Public privacy review:** No raw test-case captures are published. All original test images remain in the academic report and the private local evidence ZIP; only the historical test-result summary is shared.
 
-| Test | Reported scenario | Reported actual outcome | Original report screenshot |
+| Test | Reported scenario | Reported actual outcome | Screenshot availability |
 | --- | --- | --- | --- |
-| TC01 | User Registration — valid details | Registration successful | Retained in original report (not publicly uploaded) |
-| TC02 | User Registration — required fields | Validation displayed | Retained in original report (not publicly uploaded) |
-| TC03 | User Registration — invalid email | Validation displayed | Retained in original report (not publicly uploaded) |
-| TC04 | User Registration — confirmation mismatch | Validation displayed | Retained in original report (not publicly uploaded) |
-| TC05 | User Login — valid account | Login successful | Retained in original report (not publicly uploaded) |
-| TC06 | User Login — incorrect password | Error displayed | Retained in original report (not publicly uploaded) |
-| TC07 | Product Browsing | Products displayed | Original report capture withheld from public repository |
-| TC08 | Product Details | Details displayed | Original report capture withheld from public repository |
-| TC09 | Product Search | Product displayed | Original report capture withheld from public repository |
-| TC10 | Place Order — valid input | Order created | Original report capture withheld from public repository |
-| TC11 | Place Order — invalid quantity | Validation displayed | Original report capture withheld from public repository |
-| TC12 | Design Upload | Upload successful | Original report capture withheld from public repository |
-| TC13 | Payment (local card-validation simulation) | Report states payment successful; no real gateway is implemented | Retained in original report (not publicly uploaded) |
-| TC14 | Order Tracking | Status displayed | Original report capture withheld from public repository |
-| TC15 | Order Management — cancellation | Report states order cancelled | Original report capture withheld from public repository |
-| TC16 | Profile Management | Updated successfully | Retained in original report (not publicly uploaded) |
-| TC17 | Notifications | Notifications displayed | Original report capture withheld from public repository |
-| TC18 | Database — save order | Data saved | Retained in original report (not publicly uploaded) |
-| TC19 | Database — retrieve order | Data retrieved | Retained in original report (not publicly uploaded) |
-| TC20 | Navigation between screens | Navigation successful | Original report capture withheld from public repository |
+| TC01 | User Registration — valid details | Registration successful | Withheld in original report |
+| TC02 | User Registration — required fields | Validation displayed | Withheld in original report |
+| TC03 | User Registration — invalid email | Validation displayed | Withheld in original report |
+| TC04 | User Registration — confirmation mismatch | Validation displayed | Withheld in original report |
+| TC05 | User Login — valid account | Login successful | Withheld in original report |
+| TC06 | User Login — incorrect password | Error displayed | Withheld in original report |
+| TC07 | Product Browsing | Products displayed | Withheld in original report |
+| TC08 | Product Details | Details displayed | Withheld in original report |
+| TC09 | Product Search | Product displayed | Withheld in original report |
+| TC10 | Place Order — valid input | Order created | Withheld in original report |
+| TC11 | Place Order — invalid quantity | Validation displayed | Withheld in original report |
+| TC12 | Design Upload | Upload successful | Withheld in original report |
+| TC13 | Payment (local card-validation simulation) | Report states payment successful; no real gateway is implemented | Withheld in original report |
+| TC14 | Order Tracking | Status displayed | Withheld in original report |
+| TC15 | Order Management — cancellation | Report states order cancelled | Withheld in original report |
+| TC16 | Profile Management | Updated successfully | Withheld in original report |
+| TC17 | Notifications | Notifications displayed | Withheld in original report |
+| TC18 | Database — save order | Data saved | Withheld in original report |
+| TC19 | Database — retrieve order | Data retrieved | Withheld in original report |
+| TC20 | Navigation between screens | Navigation successful | Withheld in original report |
 
 ## What these captures do and do not establish
 
