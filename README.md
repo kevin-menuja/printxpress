@@ -1,8 +1,6 @@
 # PrintXpress — Android Mobile Application
 
-**Academic Android project | Java · XML · Room (SQLite) · Material UI**
-
-PrintXpress is a mobile application for browsing custom printing products and recording print orders in an **on-device, academic demonstration workflow**. The original source code, local database implementation, and application functionality are preserved.
+**PrintXpress** was completed for the **Mobile Application Development** module in the **3rd semester** of the **Higher Diploma in Computing & Software Engineering**. Built with Java, XML layouts and Room (SQLite), it demonstrates browsing custom printing products and recording print orders in an **on-device academic workflow**. The original source code and local database implementation are preserved.
 
 > **Project status:** Academic demonstration, not a live online print store or real payment-processing product. The original order form contains card-style input fields used for local validation. **Never enter actual payment-card details.** No payment gateway is implemented in the checked-in code.
 
@@ -41,7 +39,7 @@ The application stores users, products, orders, notifications, addresses, saved 
 ## Project structure
 
 ```text
-PrintXpress-Mobile-App/
+printxpress/
 ├── app/
 │   ├── build.gradle
 │   └── src/
@@ -65,7 +63,7 @@ PrintXpress-Mobile-App/
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/kevin-menuja/PrintXpress-Mobile-App.git
+   git clone https://github.com/kevin-menuja/printxpress.git
    ```
 
 3. In Android Studio, select **Open** and choose the cloned project directory.
